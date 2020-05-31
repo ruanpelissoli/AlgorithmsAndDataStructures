@@ -1,0 +1,13 @@
+C:\Projetos\AlgorithmsAndDataStructures\Queues\bin\Debug\netcoreapp3.1\Queues.exe
+C:\Projetos\AlgorithmsAndDataStructures\Queues\bin\Debug\netcoreapp3.1\Queues.deps.json
+C:\Projetos\AlgorithmsAndDataStructures\Queues\bin\Debug\netcoreapp3.1\Queues.runtimeconfig.json
+C:\Projetos\AlgorithmsAndDataStructures\Queues\bin\Debug\netcoreapp3.1\Queues.runtimeconfig.dev.json
+C:\Projetos\AlgorithmsAndDataStructures\Queues\bin\Debug\netcoreapp3.1\Queues.dll
+C:\Projetos\AlgorithmsAndDataStructures\Queues\bin\Debug\netcoreapp3.1\Queues.pdb
+C:\Projetos\AlgorithmsAndDataStructures\Queues\obj\Debug\netcoreapp3.1\Queues.csprojAssemblyReference.cache
+C:\Projetos\AlgorithmsAndDataStructures\Queues\obj\Debug\netcoreapp3.1\Queues.AssemblyInfoInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\Queues\obj\Debug\netcoreapp3.1\Queues.AssemblyInfo.cs
+C:\Projetos\AlgorithmsAndDataStructures\Queues\obj\Debug\netcoreapp3.1\Queues.csproj.CoreCompileInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\Queues\obj\Debug\netcoreapp3.1\Queues.dll
+C:\Projetos\AlgorithmsAndDataStructures\Queues\obj\Debug\netcoreapp3.1\Queues.pdb
+C:\Projetos\AlgorithmsAndDataStructures\Queues\obj\Debug\netcoreapp3.1\Queues.genruntimeconfig.cache

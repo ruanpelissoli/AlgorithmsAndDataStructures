@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouvvcMZ4fUToGfMvqo5WCpUM7Z6X/qVLRQTk59BFENJFy5fxl+zKMJS2A+yu1x8p5OzoQqD9OXCLMewQ4lPpNg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\AlgorithmsAndDataStructures\\Queues\\Queues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\bin\Debug\netcoreapp3.1\Stacks.exe
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\bin\Debug\netcoreapp3.1\Stacks.deps.json
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\bin\Debug\netcoreapp3.1\Stacks.runtimeconfig.json
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\bin\Debug\netcoreapp3.1\Stacks.runtimeconfig.dev.json
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\bin\Debug\netcoreapp3.1\Stacks.dll
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\bin\Debug\netcoreapp3.1\Stacks.pdb
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\obj\Debug\netcoreapp3.1\Stacks.AssemblyInfoInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\obj\Debug\netcoreapp3.1\Stacks.AssemblyInfo.cs
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\obj\Debug\netcoreapp3.1\Stacks.csproj.CoreCompileInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\obj\Debug\netcoreapp3.1\Stacks.dll
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\obj\Debug\netcoreapp3.1\Stacks.pdb
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\obj\Debug\netcoreapp3.1\Stacks.genruntimeconfig.cache
+C:\Projetos\AlgorithmsAndDataStructures\Stacks\obj\Debug\netcoreapp3.1\Stacks.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fn/N+Xdhb2goshOsW4fRSnVNJ6lr3NHb6j/Q+cHG57mLX7cm+igFQNgowkOJd9UlYzpOmNxhUZ+GFwWpeuQo9g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\AlgorithmsAndDataStructures\\Arrays\\Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

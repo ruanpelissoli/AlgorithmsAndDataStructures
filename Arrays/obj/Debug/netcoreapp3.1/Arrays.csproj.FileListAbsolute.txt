@@ -1,0 +1,13 @@
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Projetos\AlgorithmsAndDataStructures\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

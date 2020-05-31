@@ -1,0 +1,13 @@
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\bin\Debug\netcoreapp3.1\HashTables.exe
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\bin\Debug\netcoreapp3.1\HashTables.deps.json
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\bin\Debug\netcoreapp3.1\HashTables.runtimeconfig.json
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\bin\Debug\netcoreapp3.1\HashTables.runtimeconfig.dev.json
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\bin\Debug\netcoreapp3.1\HashTables.dll
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\bin\Debug\netcoreapp3.1\HashTables.pdb
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\obj\Debug\netcoreapp3.1\HashTables.csprojAssemblyReference.cache
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\obj\Debug\netcoreapp3.1\HashTables.AssemblyInfoInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\obj\Debug\netcoreapp3.1\HashTables.AssemblyInfo.cs
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\obj\Debug\netcoreapp3.1\HashTables.csproj.CoreCompileInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\obj\Debug\netcoreapp3.1\HashTables.dll
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\obj\Debug\netcoreapp3.1\HashTables.pdb
+C:\Projetos\AlgorithmsAndDataStructures\HashTables\obj\Debug\netcoreapp3.1\HashTables.genruntimeconfig.cache

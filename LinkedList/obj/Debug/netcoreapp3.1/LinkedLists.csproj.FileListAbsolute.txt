@@ -1,0 +1,13 @@
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\bin\Debug\netcoreapp3.1\LinkedLists.exe
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\bin\Debug\netcoreapp3.1\LinkedLists.deps.json
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.json
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.dev.json
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\bin\Debug\netcoreapp3.1\LinkedLists.dll
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\bin\Debug\netcoreapp3.1\LinkedLists.pdb
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\obj\Debug\netcoreapp3.1\LinkedLists.csprojAssemblyReference.cache
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfoInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfo.cs
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\obj\Debug\netcoreapp3.1\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\obj\Debug\netcoreapp3.1\LinkedLists.dll
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\obj\Debug\netcoreapp3.1\LinkedLists.pdb
+C:\Projetos\AlgorithmsAndDataStructures\LinkedList\obj\Debug\netcoreapp3.1\LinkedLists.genruntimeconfig.cache
